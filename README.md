@@ -1,3 +1,5 @@
+![Ebird Dashboard Nadia](https://github.com/Arghya-Banerjee/Ebird-Nadia-Data-Analysis/assets/72212592/56bf5635-6e73-4364-9620-44984b006c2c)
+
 # Diving Deep into Nadia's Avian Symphony: A Journey with Power BI
 
 Welcome to a vibrant exploration of Nadia, West Bengal's avifauna, where over 58,000 eBird observations paint a mesmerizing portrait of 382 captivating species. This Power BI dashboard invites you to become a conductor, orchestrating data into insights and unveiling the hidden melodies within this feathered chorus.
